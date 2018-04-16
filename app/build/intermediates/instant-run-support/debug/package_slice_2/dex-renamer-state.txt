@@ -1,0 +1,4 @@
+#Mon Apr 16 16:47:18 CST 2018
+base.0=E\:\\kk-2014\\android_as\\Github_PDF_Demo-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

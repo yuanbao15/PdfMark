@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\kk-2014\android_as\Github_PDF_Demo-master\app\src\main\jniLibs"><file name="armeabi/libmupdf.so" path="E:\kk-2014\android_as\Github_PDF_Demo-master\app\src\main\jniLibs\armeabi\libmupdf.so"/></source></dataSet><dataSet config="debug"><source path="E:\kk-2014\android_as\Github_PDF_Demo-master\app\src\debug\jniLibs"/></dataSet></merger>
